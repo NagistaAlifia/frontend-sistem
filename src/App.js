@@ -9,6 +9,9 @@ function App() {
         <p>
           Nagista Alifia Handesaputri - 3120510906
         </p>
+        <p>
+          Telah Menggunakan CICD pada AWS S3
+        </p>
       </header>
     </div>
   );
